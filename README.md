@@ -55,7 +55,7 @@ Se han creado tests para cubrir:
 - Valores iguales a cero
 
 <div>
-  <img src="Ejercicio1/img/05.png" width="800">
+  <img src="Ejercicio1/img/05.png" width="700">
 </div>
 
 También se incluyen aserciones para comprobar el correcto funcionamiento del sistema de tests.
