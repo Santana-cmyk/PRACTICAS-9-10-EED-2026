@@ -19,20 +19,20 @@ En este ejercicio se trabaja con **JUnit 5** en Eclipse para introducir el conce
 
 Se utiliza una clase `Rectangulo`, sobre la que se implementan pruebas para validar el correcto funcionamiento de sus métodos.
 
-<div>
+<div align="center">
   <img src="Ejercicio1/img/01.png" width="600">
 </div>
 
 Se implementa una clase `Rectangulo` con los métodos:
 
 - `area()`
-<div>
+<div align="center">
   <img src="Ejercicio1/img/03.png" width="400">
 </div>
 
 - `perimetro()`
 
-<div>
+<div align="center">
   <img src="Ejercicio1/img/04.png" width="400">
 </div>
 
@@ -125,7 +125,7 @@ Visualizar el porcentaje global de cobertura, analizar la cobertura por clases y
 ## Ejercicio 3 – Análisis de código con SonarLint
 
 <div align="center">
-  <img src="imagen.png" width="400">
+  <img src="https://imgs.search.brave.com/R5ChBi71zenvor9pUH4bpYRrwbKcnu5LEdQQarSxDco/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ4LzEvc29uYXJs/aW50LWxvZ28tcG5n/X3NlZWtsb2dvLTQ4/MzU2MC5wbmc" width="400">
 </div>
 
 ### 3.1 Descripción
@@ -137,10 +137,7 @@ La herramienta detecta posibles problemas de calidad, estilo y buenas prácticas
 ---
 
 ### 3.2 Documentación SonarLint - SonarQube
-
-<div align="center">
-  <img src="imagen.png" width="400">
-</div>
+[Click aqui](Ejercicio3/SantanaDaniel_Ejercicio03_SonarLint.pdf) para ver la documentacion sobre las herramientas **SonarQube** y **SonaLint**, donde se muestran sus diferencias, similitudes y distintos casos de uso. Además veras capturas sobre la ejecucion de la herramienta principal sobre ``Rectangulo``
 
 ---
 
