@@ -10,7 +10,7 @@ Este repositorio contiene varias prácticas relacionadas con el uso de herramien
 ## Ejercicio 1 – Tests unitarios con JUnit 5
 
 <div align="center">
-  <img src="imagen.png" width="400">
+  <img src="https://imgs.search.brave.com/tOpSJneo-V70uItNCfUXhB0jhS6RzRRjKo-zUlrl_zw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzE5NzgyMTcucG5n" width="400">
 </div>
 
 ### 1.1 Descripción
@@ -19,20 +19,23 @@ En este ejercicio se trabaja con **JUnit 5** en Eclipse para introducir el conce
 
 Se utiliza una clase `Rectangulo`, sobre la que se implementan pruebas para validar el correcto funcionamiento de sus métodos.
 
-<div align="center">
-  <img src="imagen.png" width="400">
+<div  align="center">
+  <img src="Ejercicio1/img/01.png" width="600">
 </div>
 
 Se implementa una clase `Rectangulo` con los métodos:
 
 - `area()`
-<div align="center">
-  <img src="imagen.png" width="400">
+<div>
+  <img src="Ejercicio1/img/03.png" width="400">
 </div>
+
 - `perimetro()`
-<div align="center">
-  <img src="imagen.png" width="400">
+
+<div>
+  <img src="Ejercicio1/img/04.png" width="400">
 </div>
+
 ---
 
 ### 1.2 Cambios realizados en la clase
@@ -43,7 +46,7 @@ Se han añadido validaciones a los métodos:
 - Si algún valor es `0`, el método devuelve `0`.
 
 <div align="center">
-  <img src="imagen.png" width="400">
+  <img src="Ejercicio1/img/05.png" width="800">
 </div>
 
 ---
@@ -59,7 +62,7 @@ Se han creado tests para cubrir:
 También se incluyen aserciones para comprobar el correcto funcionamiento del sistema de tests.
 
 <div align="center">
-  <img src="imagen.png" width="400">
+  <img src="Ejercicio1/img/02.png" width="1000">
 </div>
 
 ---
