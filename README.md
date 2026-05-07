@@ -43,11 +43,7 @@ Se han añadido validaciones a los métodos:
 
 - Si algún valor es negativo, el método devuelve `-1`.
 - Si algún valor es `0`, el método devuelve `0`.
-
-<div align="center">
-  <img src="Ejercicio1/img/05.png" width="800">
-</div>
-
+  
 ---
 
 ### 1.3 Casos de prueba
@@ -57,6 +53,10 @@ Se han creado tests para cubrir:
 - Valores positivos
 - Valores negativos
 - Valores iguales a cero
+
+<div>
+  <img src="Ejercicio1/img/05.png" width="800">
+</div>
 
 También se incluyen aserciones para comprobar el correcto funcionamiento del sistema de tests.
 
