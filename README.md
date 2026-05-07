@@ -15,8 +15,7 @@ Este repositorio contiene varias prácticas relacionadas con el uso de herramien
 
 ### 1.1 Descripción
 
-En este ejercicio se trabaja con **JUnit 5** en Eclipse para introducir el concepto de pruebas unitarias en Java.
-
+En este ejercicio se trabaja con JUnit 5 en Eclipse para introducir el concepto de pruebas unitarias en Java.
 Se utiliza una clase `Rectangulo`, sobre la que se implementan pruebas para validar el correcto funcionamiento de sus métodos.
 
 <div align="center">
@@ -117,7 +116,7 @@ Este informe permite:
 Visualizar el porcentaje global de cobertura, analizar la cobertura por clases y métodos e identificar partes del código que podrían mejorarse en los tests.
 
 <div align="center">
-  <img src="Ejercicio2/img/04.png" width="1000">
+  <img src="Ejercicio2/img/04.png" width="900">
 </div>
 
 ---
@@ -125,7 +124,7 @@ Visualizar el porcentaje global de cobertura, analizar la cobertura por clases y
 ## Ejercicio 3 – Análisis de código con SonarLint
 
 <div align="center">
-  <img src="https://imgs.search.brave.com/R5ChBi71zenvor9pUH4bpYRrwbKcnu5LEdQQarSxDco/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ4LzEvc29uYXJs/aW50LWxvZ28tcG5n/X3NlZWtsb2dvLTQ4/MzU2MC5wbmc" width="400">
+  <img src="https://imgs.search.brave.com/R5ChBi71zenvor9pUH4bpYRrwbKcnu5LEdQQarSxDco/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ4LzEvc29uYXJs/aW50LWxvZ28tcG5n/X3NlZWtsb2dvLTQ4/MzU2MC5wbmc" width="300">
 </div>
 
 ### 3.1 Descripción
@@ -160,7 +159,7 @@ Se aplican técnicas de refactorización sobre el proyecto inicial.
 - Extracción de lógica común para validación de parámetros
 
 <div align="center">
-  <img src="Ejercicio4/img/01.png" width="800">
+  <img src="Ejercicio4/img/01.png" width="700">
 </div>
 
 ---
@@ -188,7 +187,9 @@ Se documenta el proyecto utilizando Javadoc en el código y Markdown en el repos
 - Valores de retorno
 
 <div align="center">
-  <img src="Ejercicio5/img/01.png" width="800">
+  <img src="Ejercicio5/img/01.png" width="700">
 </div>
+
+En la carpeta correspondiente a este ejercicio se encuentra el archivo HTML con la documentación Javadoc generada.
 
 ---
