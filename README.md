@@ -160,7 +160,7 @@ Se aplican técnicas de refactorización sobre el proyecto inicial.
 - Extracción de lógica común para validación de parámetros
 
 <div align="center">
-  <img src="imagen.png" width="400">
+  <img src="Ejercicio4/img/01.png" width="800">
 </div>
 
 ---
@@ -188,7 +188,7 @@ Se documenta el proyecto utilizando Javadoc en el código y Markdown en el repos
 - Valores de retorno
 
 <div align="center">
-  <img src="imagen.png" width="400">
+  <img src="Ejercicio5/img/01.png" width="800">
 </div>
 
 ---
