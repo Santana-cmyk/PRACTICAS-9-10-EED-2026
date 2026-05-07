@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ejercicio05","c":"Rectangle","l":"area()"},{"p":"ejercicio05","c":"Rectangle","l":"perimetro()"},{"p":"ejercicio05","c":"Rectangle","l":"Rectangle(int, int)","u":"%3Cinit%3E(int,int)"}];updateSearchResults();
