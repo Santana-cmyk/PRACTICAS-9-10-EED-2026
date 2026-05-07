@@ -1,10 +1,10 @@
 package ejercicio01;
 
-public class Rectangulo {
+public class Rectangle {
 	private int ancho;
 	private int alto;
 
-	public Rectangulo(int ancho, int alto) {
+	public Rectangle(int ancho, int alto) {
 		this.ancho = ancho;
 		this.alto = alto;
 	}
