@@ -19,7 +19,7 @@ En este ejercicio se trabaja con **JUnit 5** en Eclipse para introducir el conce
 
 Se utiliza una clase `Rectangulo`, sobre la que se implementan pruebas para validar el correcto funcionamiento de sus métodos.
 
-<div  align="center">
+<div>
   <img src="Ejercicio1/img/01.png" width="600">
 </div>
 
@@ -70,7 +70,7 @@ También se incluyen aserciones para comprobar el correcto funcionamiento del si
 ## Ejercicio 2 – Cobertura de tests con EclEmma
 
 <div align="center">
-  <img src="imagen.png" width="400">
+  <img src="Ejercicio2/img/01.png" width="400">
 </div>
 
 ### 2.1  Descripción
@@ -81,12 +81,43 @@ El objetivo es comprobar qué partes del código han sido ejecutadas por las pru
 
 ---
 
-### 2.2 Resultado
+### 2.2 Ejecución de la cobertura
+
+Se ejecutan los tests unitarios desarrollados en el ejercicio anterior utilizando la opción **Coverage As** en Eclipse mediante el plugin EclEmma.
+
+Esto permite obtener información detallada sobre:
+
+- Líneas de código ejecutadas por los tests.
+- Ramas del código no cubiertas.
+- Porcentaje total de cobertura del proyecto.
+
+---
+
+### 2.3 Exportación de informe
 
 Se busca alcanzar una cobertura lo más cercana posible al 100%, asegurando que todas las ramas del código han sido evaluadas.
 
 <div align="center">
-  <img src="imagen.png" width="400">
+  <img src="Ejercicio2/img/02.png" width="500">
+</div>
+
+Exportaremos el informe...
+
+<div align="center">
+  <img src="Ejercicio2/img/03.png" width="500">
+</div>
+
+---
+
+### 2.4 Documento de cobertura
+Una vez alcanzado un nivel de cobertura adecuado, preferiblemente cercano al 100%, se genera un informe de cobertura utilizando la opción **Coverage Report** en Eclipse.
+
+Este informe permite:
+
+Visualizar el porcentaje global de cobertura, analizar la cobertura por clases y métodos e identificar partes del código que podrían mejorarse en los tests.
+
+<div align="center">
+  <img src="Ejercicio2/img/04.png" width="1000">
 </div>
 
 ---
